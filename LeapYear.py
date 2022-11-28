@@ -1,3 +1,4 @@
+# This takes the input from the user and gives the output if the year is leap or not
 def is_leap(year):
     leap = False
 
