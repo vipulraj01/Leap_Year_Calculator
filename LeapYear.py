@@ -1,3 +1,4 @@
+# This python program calculates leap year based on the user input of year
 def is_leap(year):
     leap = False
 
